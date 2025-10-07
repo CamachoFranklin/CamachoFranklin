@@ -1,7 +1,8 @@
 <h2>Hi there, I'm Franklin Camacho</h2>
 
-* _Estudiante de Ingeniería de Software en [UCLA](http://www.ucla.edu.ve/)._
+* _Ingeniero en Informática en [UCLA](http://www.ucla.edu.ve/)._
 * _Entusiasta por aprender nuevos lenguajes de programación y tecnologías de software._
+* _Quality Assurance Analyst._
 
 <h2>Technologies and Languages <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/></h2>
 
